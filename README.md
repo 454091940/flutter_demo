@@ -1,16 +1,20 @@
 # flutter_apps
 
-A new Flutter project.
+此项目整合了部分常用的功能.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1.使用高德flutter插件准确获取经纬度
+2.路由(包含命名路由,路由传参)
+3.极光推送(...个人认证没有通过后续写了之后再推送上仓库)
+4.flutter轮播
+5.http请求
+6.调用api实现拍照,选择照片
+7.监听网络变化(wifi,移动网络,没有网络)
+7.封装了一个非常简单的本地存储(类似于locaStroge)
+8.打开外部应用 发送短信 打电话  浏览器
+9.获取设备信息
+10.扫码条形码,二维码
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+后续会逐步更新 微信支付 支付宝支付  分享 等等...
